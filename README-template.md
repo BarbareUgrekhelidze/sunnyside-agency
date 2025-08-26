@@ -1,6 +1,6 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://github.com/barbare999/sunnyside-agency.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/sunnyside-agency.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/sunnyside-agency.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/sunnyside-agency/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/sunnyside-agency.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/sunnyside-agency/)
 
 ## My process
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Sunnyside](https://barbare999.github.io/sunnyside-agency/)
+- Website - [Sunnyside](https://BarbareUgrekhelidze.github.io/sunnyside-agency/)
 - Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
