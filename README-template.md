@@ -34,4 +34,4 @@ Users should be able to:
 ## Author
 
 - Website - [Sunnyside](https://BarbareUgrekhelidze.github.io/sunnyside-agency/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
